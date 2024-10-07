@@ -1,4 +1,4 @@
-# S1.1-HTML-and-CSS-with-Flex
+# S1.1-HTML-and-CSS-with-Flex <a href="#"> <img width="80" align="right" alt="ITAcademy" src="https://github.com/user-attachments/assets/6efa87df-ddf4-4d23-adbc-f851c88c0c79"></a>
 In this exercise, you will have to create a layout that works on desktop, mobile, and tablet.
 
 <h3>💻 Technologies Used</h3>
