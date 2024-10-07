@@ -52,8 +52,10 @@ N/A
 
 <h3>🤝 Contributions</h3>
 
+This repo doesn't accept contributions, but if you detect an error:
+ 
 Fork the repository  
-- Create a new branch: `git checkout -b feature/Contribution`
-- Make your changes and commit them: `git commit -m 'Add New Functionality'`
-- Push the changes to your branch: `git push origin feature/NewFunctionality`
+- Create a new branch: `git checkout -b ErrorBug`
+- Make your changes and commit them: `git commit -m 'Error description'`
+- Push the changes to your branch: `git push origin ErrorBug`
 - Create a pull request
