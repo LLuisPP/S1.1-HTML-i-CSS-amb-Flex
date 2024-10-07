@@ -1,0 +1,39 @@
+html {
+    max-width: 1200px;
+    background-color: white;
+}
+
+.container {
+    margin: 20px;
+    border: 20px;
+}
+
+.menu-container {
+    display: flex;
+    flex-direction: row;
+    align-items: space-around;
+    border-bottom: 20px black;
+    padding: 10px grey;
+    overflow: hidden;
+}
+
+.container > div {
+    display: flex;
+    background-color: gold;
+    border: 15px blue;
+    padding: 10px;
+    align-items: center;
+}
+
+.menu {
+    flex: 1;
+    overflow: hidden;
+}
+
+.logo {
+    flex: 1;
+}
+
+.social {
+    flex: 1;
+  }
