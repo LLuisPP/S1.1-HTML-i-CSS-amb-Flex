@@ -5,28 +5,32 @@ html {
 
 .container {
     margin: 20px;
-    border: 20px;
+    border: 20px solid black;
 }
 
-.menu-container {
+.nav-container {
     display: flex;
     flex-direction: row;
-    align-items: space-around;
-    border-bottom: 20px black;
-    padding: 10px grey;
+    align-items: space-arround;
+    border-bottom: 20px solid black;
+    padding: 10px solid grey;
     overflow: hidden;
 }
 
-.container > div {
+.nav-container > div {
     display: flex;
-    background-color: gold;
-    border: 15px blue;
+    background-color: rgb(226, 96, 96);
+    border: 15px solid rgb(47, 50, 89);
     padding: 10px;
     align-items: center;
 }
 
-.menu {
-    flex: 1;
+.ban-container {
+    display: flex;
+}
+
+.nav {
+    flex: 2;
     overflow: hidden;
 }
 
@@ -36,4 +40,9 @@ html {
 
 .social {
     flex: 1;
-  }
+}
+
+.banner {
+    background-color: gold;
+    border: 20px solid orange;
+}
