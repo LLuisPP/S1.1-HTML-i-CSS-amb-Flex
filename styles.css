@@ -19,8 +19,8 @@ html {
 
 .nav-container > div {
     display: flex;
-    background-color: rgb(226, 96, 96);
-    border: 15px solid rgb(47, 50, 89);
+    background-color: rgb(240, 99, 99);
+    border: 15px solid rgb(47, 50, 91);
     padding: 10px;
     align-items: center;
 }
@@ -30,23 +30,24 @@ html {
 }
 
 .nav {
-    flex: 5;
+    flex: 3;
     overflow: hidden;
 }
 
 .logo {
-    flex: 2;
+    flex: 1;
 }
 
 .social {
-    flex: 2;
+    flex: 1;
 }
 
 .banner {
     display: flex;
+    font-weight: bold;
+    padding-left: 10px;
     background-color: gold;
-    border: 20px solid rgb(241, 169, 34);
-    padding: 8px;
+    border: 20px solid rgb(255, 132, 0);
 }
 
 .content-container {
@@ -59,7 +60,7 @@ html {
 .article-container {
     display: flex;
     flex-direction: column;
-    border-right: 20px solid rgb(0, 0, 0);
+    border-right: 20px solid black;
     width: 70%;
 }
 
@@ -69,33 +70,32 @@ html {
 }
 
 .article {
-    flex: 1 1;
-    background-color: rgb(58, 58, 198);
+    flex: 1 calc(50% - 60px);
+    background-color: rgb(66, 66, 225);
     padding: 10px;
-    border: 20px solid black;
+    border: 20px solid rgb(97, 91, 134);
 }
 
 .navegacion {
-    background-color: rgb(89, 131, 231);
+    background-color: rgb(90, 172, 213);
     padding: 10px;
-    border: 20px solid black;
-    width: 30%;
-}
-
-.pie {
-    background-color: rgb(248, 237, 82);
-    display: flex;
-    padding: 10px;
+    border: 20px solid rgb(97, 91, 134);
 }
 
 .pub-container {
     background-color: rgb(236, 94, 94);
-    width: 25%;
+    width: 30%;
     padding: 10px;
 }
 
 .pub {
     background-color: yellow;
     border: 10px solid yellow;
+    padding: 10px;
+}
+
+.pie {
+    background-color: rgb(248, 237, 82);
     display: flex;
+    padding: 10px;
 }
