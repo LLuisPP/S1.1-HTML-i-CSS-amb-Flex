@@ -60,6 +60,7 @@ html {
 .article-container {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     border-right: 20px solid black;
     width: 70%;
 }
@@ -80,6 +81,7 @@ html {
     background-color: rgb(90, 172, 213);
     padding: 10px;
     border: 20px solid rgb(97, 91, 134);
+    width: 100%;
 }
 
 .pub-container {
@@ -92,6 +94,7 @@ html {
     background-color: yellow;
     border: 10px solid yellow;
     padding: 10px;
+    margin-bottom: 10px;
 }
 
 .pie {
