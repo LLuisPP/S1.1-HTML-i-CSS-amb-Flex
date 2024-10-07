@@ -3,7 +3,7 @@ In this exercise, you will have to create a layout that works on desktop, mobile
 
 <h3>💻 Technologies Used</h3>
 
-<div align="left">
+<div align="center">
 <table>
   <tr>
       <td>
