@@ -3,6 +3,7 @@ In this exercise, you will have to create a layout that works on desktop, mobile
 
 <h3>💻 Technologies Used</h3>
 
+<div align="center">
 <table>
   <tr>
       <td>
@@ -11,11 +12,9 @@ In this exercise, you will have to create a layout that works on desktop, mobile
       <td>
         <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="HTML" width="35" height="35"/></a><br>CSS3
       </td>
-      <td>
-        <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flex/flex-original.svg" alt="HTML" width="35" height="35"/></a><br>flex
-      </td>
   </tr>
 </table>
+</div>
 
 <h3>📋 Requirements</h3>
 
