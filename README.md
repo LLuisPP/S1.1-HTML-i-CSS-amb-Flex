@@ -56,20 +56,20 @@ N/A
 <table>
   <tr>
     <td align="center">
-      <a href="#"><img src="https://github.com/user-attachments/assets/37adb03e-7e94-42dd-9d22-8c13f5b9f209" alt="WebView" width="200" /></a><br>Web computer device view<br>
-      <a href="#"><img src="https://github.com/user-attachments/assets/b7ec46f8-413b-4db2-b63e-7b035c7ea928" alt="MobileView" width="200" /></a><br>Tablet device view<br>
-      <a href="#"><img src="https://github.com/user-attachments/assets/b76c3391-b6ed-4a4a-a21a-5e53bcb60e39" alt="MobileView" width="200" /></a><br>mobile device action button animation
-    </td>  
-    <td align="center">
-      <a href="#"><img src="https://github.com/user-attachments/assets/dc1d5b99-e943-45c6-8abc-8918e59ddea6" alt="Result" width="600" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       Expected result
     </td>  
     <td align="center">
       Result
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <br><a href="#"><img src="https://github.com/user-attachments/assets/37adb03e-7e94-42dd-9d22-8c13f5b9f209" alt="WebView" width="200" /></a><br>Web computer device view<br>
+      <a href="#"><img src="https://github.com/user-attachments/assets/b7ec46f8-413b-4db2-b63e-7b035c7ea928" alt="MobileView" width="200" /></a><br>Tablet device view<br>
+      <a href="#"><img src="https://github.com/user-attachments/assets/b76c3391-b6ed-4a4a-a21a-5e53bcb60e39" alt="MobileView" width="200" /></a><br>button animation<br><br>
+    </td>  
+    <td align="center">
+      <a href="#"><img src="https://github.com/user-attachments/assets/dc1d5b99-e943-45c6-8abc-8918e59ddea6" alt="Result" width="600" /></a>
     </td>
   </tr>
 </table>
