@@ -54,12 +54,28 @@ N/A
 
 <div align="center">
 <table>
-    <td>
+  <tr>
+    <td align="center">
       <a href="#"><img src="https://github.com/user-attachments/assets/37adb03e-7e94-42dd-9d22-8c13f5b9f209" alt="WebView" width="300" /></a>
     </td>  
-    <td>
+    <td align="center">
       <a href="#"><img src="https://github.com/user-attachments/assets/b7ec46f8-413b-4db2-b63e-7b035c7ea928" alt="MobileView" width="200" /></a>
     </td>
+    <td align="center">
+      <a href="#"><img src="https://github.com/user-attachments/assets/b76c3391-b6ed-4a4a-a21a-5e53bcb60e39" alt="MobileView" width="200" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Web computer device view
+    </td>  
+    <td align="center">
+      Tablet device view
+    </td>
+    <td align="center">
+      mobile device action button animation
+    </td>
+  </tr>
 </table>
 </div>
 
