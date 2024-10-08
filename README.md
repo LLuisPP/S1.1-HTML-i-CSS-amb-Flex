@@ -42,7 +42,7 @@ This sprint doesn't need to be installed.
 
 - Double click on index.html
 - Open your browser developertools and activate mobile view
-- Test both devices: web view <> mobile view
+- Test all devices: web view > tablet view > mobile view
 
 <h3>🌐 Deployment</h3>
 
