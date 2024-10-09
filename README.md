@@ -1,4 +1,4 @@
-# S1.1-HTML-and-CSS-with-Flex <a href="https://github.com/LLuisPP/ITA_FrontEnd"> <img width="80" align="right" alt="ITAcademy" src="https://github.com/user-attachments/assets/6efa87df-ddf4-4d23-adbc-f851c88c0c79"></a>
+# S1.1-HTML-and-CSS-with-Flex - Level ★★★<a href="https://github.com/LLuisPP/ITA_FrontEnd"> <img width="80" align="right" alt="ITAcademy" src="https://github.com/user-attachments/assets/6efa87df-ddf4-4d23-adbc-f851c88c0c79"></a>
 In this exercise, you will have to create a layout that works on desktop, mobile, and tablet.
 
 <h3>💻 Technologies Used</h3>
@@ -56,10 +56,10 @@ N/A
 <table>
   <tr>
     <td align="center">
-      Expected result
+      Expected result - ★★★
     </td>  
     <td align="center">
-      Result
+      Result - Level ★★★
     </td>
   </tr>
   <tr>
