@@ -58,7 +58,7 @@ N/A
 <h2>Results vs expected results</h2>
 
 > [!Tip]
-> Key concepts:  `display: flex;` `align-items:` `flex-direction:` `flex-wrap:` `@media querys`
+> Key concepts:  `display: flex;` `align-items:` `flex-direction:` `flex-wrap:` `@media queries`
 
 <div align="center">
 <table>
