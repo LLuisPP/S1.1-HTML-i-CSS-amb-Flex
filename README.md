@@ -35,10 +35,7 @@ cd ../FolderName
 </div>
 
 <h2>🛠️ Installation</h2>
-
-> [!IMPORTANT]
-> This sprint doesn't need to be installed.
-
+This sprint doesn't need to be installed.
 
 <h2>▶️ Execution</h2>
 
