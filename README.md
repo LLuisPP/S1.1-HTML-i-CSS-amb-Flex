@@ -1,7 +1,8 @@
 # S1.1-HTML-and-CSS-with-Flex - N ★★★<a href="https://github.com/LLuisPP/ITA_FrontEnd"> <img width="80" align="right" alt="ITAcademy" src="https://github.com/user-attachments/assets/6efa87df-ddf4-4d23-adbc-f851c88c0c79"></a>
+
 In this exercise, you will have to create a layout that works on desktop, mobile, and tablet.
 
-<h3>💻 Technologies Used</h3>
+<h2>💻 Technologies Used</h2>
 
 <div align="center">
 <table>
@@ -16,9 +17,10 @@ In this exercise, you will have to create a layout that works on desktop, mobile
 </table>
 </div>
 
-<h3>📋 Requirements</h3>
+<h2>📋 Requirements</h2>
 
 <div align="left">
+
 Clone this repository:
   
 `````
@@ -32,25 +34,31 @@ cd ../FolderName
 `````
 </div>
 
-<h3>🛠️ Installation</h3>
+<h2>🛠️ Installation</h2>
 
-<div align="left">
-This sprint doesn't need to be installed.
-</div>
+> [!IMPORTANT]
+> This sprint doesn't need to be installed.
 
-<h3>▶️ Execution</h3>
+
+<h2>▶️ Execution</h2>
 
 - Double click on index.html
-- Open your browser developertools and activate mobile view
-- Test all devices: web view > tablet view > mobile view
+- Resize display: web view > tablet view > mobile view
+- Test responsive
 
-<h3>🌐 Deployment</h3>
+> [!NOTE]
+> Use developer tools from your browser (F12)
+
+<h2>🌐 Deployment</h2>
 
 <div align="left">
 N/A
 </div>
 
-<h3>Results vs expected results</h3>
+<h2>Results vs expected results</h2>
+
+> [!Tip]
+> Key concepts:  `display: flex;` `align-items:` `flex-direction:` `flex-wrap:` `@media querys`
 
 <div align="center">
 <table>
@@ -75,12 +83,13 @@ N/A
 </table>
 </div>
 
-<h3>🤝 Contributions</h3>
+<h2>🤝 Contributions</h2>
 
-This repo doesn't accept contributions, but if you detect an error:
- 
-Fork the repository  
-- Create a new branch: `git checkout -b ErrorBug`
-- Make your changes and commit them: `git commit -m 'Error description'`
-- Push the changes to your branch: `git push origin ErrorBug`
-- Create a pull request
+> [!WARNING]
+> This repo doesn't accept contributions, but if you detect an error:
+
+Fork the repository
+   - Create a new branch: `git checkout -b ErrorBug`
+   - Make your changes and commit them: `git commit -m 'Error description'`
+   - Push the changes to your branch: `git push origin ErrorBug`
+   - Create a pull request
