@@ -1,4 +1,4 @@
-# S1.1-HTML-and-CSS-with-Flex - N ★★★<a href="https://github.com/LLuisPP/ITA_FrontEnd"> <img width="80" align="right" alt="ITAcademy" src="https://github.com/user-attachments/assets/d4042b80-8c5d-4cab-8c24-660d4d3a123f"></a>
+# S1.1-HTML-and-CSS-with-Flex - N ★★★<a href="https://github.com/LLuisPP/ITA_FrontEnd"> <img width="80" align="right" alt="ITAcademy" src="https://github.com/user-attachments/assets/0181e96a-f65e-4d10-b326-c83203a1add5"></a>
 
 In this exercise, you will have to create a layout that works on desktop, mobile, and tablet.
 
